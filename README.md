@@ -20,3 +20,7 @@ docker run -it francoisduchemin/node-chrome bash
 ```Dockerfile
 FROM francoisduchemin/node-chrome:latest
 ```
+
+----
+
+![One does not simply use latest](https://i.imgflip.com/1fgwxr.jpg)
