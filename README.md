@@ -1,5 +1,5 @@
-# docker-node-ionic-chrome
-Docker image for Ionic with node and chrome
+# docker-node-chrome
+Docker image with node and chrome
 
 ### Pull from Docker Hub
 ```
@@ -8,7 +8,7 @@ docker pull francoisduchemin/node-chrome:latest
 
 ### Build from GitHub
 ```
-docker build -t francoisduchemin/ionic-chrome github.com/francoisduchemin/docker-node-chrome
+docker build -t francoisduchemin/node-chrome github.com/francoisduchemin/docker-node-chrome
 ```
 
 ### Run image
